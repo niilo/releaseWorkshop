@@ -35,8 +35,8 @@
 	</dependencies>
 	
 	<scm>
-	    <connection>git@github.com:niilo/releaseWorkshop.git</connection>
-	    <developerConnection>git@github.com:niilo/releaseWorkshop.git</developerConnection>
+	    <connection>scm:git:git@github.com:niilo/releaseWorkshop.git</connection>
+	    <developerConnection>scm:git:git@github.com:niilo/releaseWorkshop.git</developerConnection>
 	    <url>https://github.com/niilo/releaseWorkshop</url>
 	</scm>
 	
