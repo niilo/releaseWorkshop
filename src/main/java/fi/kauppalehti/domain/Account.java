@@ -19,7 +19,7 @@ public class Account {
 
 	@Override
 	public String toString() {
-		return format("Account: id=%s", getId());
+		return format("Account id=%s", getId());
 	}
 
 }
